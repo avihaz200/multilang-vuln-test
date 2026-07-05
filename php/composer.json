@@ -1,0 +1,7 @@
+{
+    "name": "example/multilang-vuln-test-php",
+    "description": "Deliberately vulnerable PHP file for SAST testing",
+    "require": {
+        "php": ">=7.4"
+    }
+}
