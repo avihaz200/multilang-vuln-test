@@ -29,3 +29,5 @@ app.get('/users/search', (req, res) => {
 });
 
 app.listen(3000, () => console.log('listening on 3000'));
+
+// rescan trigger: no-op comment (semantically neutral) to force CWE-319 re-evaluation
