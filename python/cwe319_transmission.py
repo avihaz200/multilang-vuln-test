@@ -1,3 +1,5 @@
+# line-shift test: no-op header comment (shifts all sink lines down by 2)
+#
 import requests
 
 # CWE-319 — Cleartext Transmission of Sensitive Information.
